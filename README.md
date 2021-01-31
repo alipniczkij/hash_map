@@ -1,6 +1,6 @@
 # Hash Map
 
-Hash map composed of entities realization via python 3
+Hash map composed of entities realization via python 3\n
 Methods included:
 * Getter by key
 * Value setter by key
