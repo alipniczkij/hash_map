@@ -1,7 +1,8 @@
 # Hash Map
 
-Hash map composed of entities realization via python 3\n
-Methods included:
+Hash map composed of entities realization via python 3
+
+###Methods included:
 * Getter by key
 * Value setter by key
 * len() support
